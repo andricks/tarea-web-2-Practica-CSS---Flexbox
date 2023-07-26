@@ -1,0 +1,64 @@
+/* CSS */
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+
+  }
+
+  .flex-container > div {
+  text-align: center;
+  
+
+  }
+  .Bienvenidos {
+    background-color: DodgerBlue;
+    text-align: center ;
+    border-radius: 0.5rem;
+  }
+ 
+
+
+.lis ul li{
+
+  background-color: DodgerBlue;
+  border-radius: 0.5rem;
+  padding: 0.3rem 0.3rem 0.3rem 0.3rem;
+  margin: 0.3rem 0.3rem;
+  width: 100px;
+  
+}
+
+.nav-menu{
+  
+  list-style-type: none;
+  padding-left: 0.6rem;
+
+}
+ .cuerpo h2{
+
+  font-weight: bold;
+  text-align: left;
+
+ }
+ .cuerpo p{
+  padding: 0rem 0rem 0rem 0rem;
+  margin: 0rem 0rem;
+ }
+
+ .barra  {
+
+  background-color:rgb(202, 45, 17);
+  border-radius: 0.5rem;
+ }
+ .barra h3 {
+  font-weight: bold;
+  
+ }
+ .barra p {
+  text-align: right;
+ 
+ }
+ .footer{
+  background-color :chartreuse
+
+ }
